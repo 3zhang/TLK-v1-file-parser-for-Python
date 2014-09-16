@@ -26,6 +26,6 @@ An example for BG:EE en-US dialog.tlk:
 >>> import filecmp
 >>> filecmp.cmp('dialog.tlk','dialog_new.tlk',shallow=False)
 True
-'''
+```
 
 
