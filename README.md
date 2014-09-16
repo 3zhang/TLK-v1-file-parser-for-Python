@@ -4,7 +4,7 @@ TLK-v1-file-parser-for-Python
 Parse tlk (v1) file format in Python for games like Baldur's Gate (EE), Icewind Dale and etc.
 This script currently only supports tlk v1 format. So don't use it for games like NWN.
 
-Before you start, backup your original tlk file. Read the example below and read all the commnents in the script.
+Before you start, backup your original tlk file. Read the example below and read all the comments in the script.
 
 An example for BG:EE en-US dialog.tlk:
 ```
